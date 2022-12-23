@@ -1,0 +1,45 @@
+{
+    "bot": {
+        "owner": "868137053861347389",
+        "prefix": ".",
+        "BotStatus": "Bot test",
+        "BotFooter": "Bot test",
+        "cooldown": 8
+    },
+    "logs": {
+        "isimlog": "1055558432205316176",
+        "rollog": "1055558447011205150",
+        "kayıtlog": "1055558469257805824"
+    },
+    "roles": {
+        "booster": "BOOSTER ROL ID",
+        "vip": "VIP ROL ID",
+        "sponsor": "SPONSOR ROL ID",
+        "müzisyen": "MÜZİSYEN ROL ID"
+    },
+    "channels": {
+        "chat": "1054004893075120198",
+        "rules": "1050079624006226000"
+    },
+    "registration": {
+        "shinobi": "1053727185216737320",
+        "gennin": "1050080089607516211",
+        "chunnin": "1050080195601760296",
+        "jounnin": "1050080250383577189",
+        "botcommands": "BOT KOMUT ROL ID (VIP MUSİZYEN VEREBİLECEK)",
+        "staff": "1054742779022032946",
+        "suspecios": "ŞÜPHELİ HESAP ROL ID",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "1049349910408986654",
+        "GuilDName": "Shindo Life",
+        "GuildOwnerRole": ["SUNUCU KURUCU ROL ID", "SUNUCU KURUCU ROL ID"]
+    },
+    "emojis": {
+        "tada": "🎉",
+        "yes": "✅",
+        "no": "❎"
+        }
+    } 
